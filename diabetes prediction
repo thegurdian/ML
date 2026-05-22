@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNTxEbzW7zBzyanUtDOAfQw",
+      "authorship_tag": "ABX9TyOMc1GVr3ey1WRM2pGNx5fB",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -62,7 +62,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "BMtD8mZ5Xr1k",
-        "outputId": "6107d6b0-71a3-4331-c22a-9847d2fac9a8",
+        "outputId": "f0d402c9-81dc-4aa9-8e7e-63fefeaf67a1",
         "collapsed": true
       },
       "execution_count": null,
@@ -86,10 +86,10 @@
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 206
+          "height": 226
         },
         "id": "ec6gPLctpeWO",
-        "outputId": "2e8c6df6-a6a1-4570-cb04-0340d61c494e"
+        "outputId": "2ce74435-2bef-4cd4-d527-1a713fa8a477"
       },
       "execution_count": null,
       "outputs": [
@@ -113,7 +113,7 @@
             ],
             "text/html": [
               "\n",
-              "  <div id=\"df-8fe2aa71-10e3-4cfa-937d-5dde2fb4b78d\" class=\"colab-df-container\">\n",
+              "  <div id=\"df-c0907784-e4ff-4a77-b49f-edea99d5f190\" class=\"colab-df-container\">\n",
               "    <div>\n",
               "<style scoped>\n",
               "    .dataframe tbody tr th:only-of-type {\n",
@@ -210,7 +210,7 @@
               "    <div class=\"colab-df-buttons\">\n",
               "\n",
               "  <div class=\"colab-df-container\">\n",
-              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-8fe2aa71-10e3-4cfa-937d-5dde2fb4b78d')\"\n",
+              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-c0907784-e4ff-4a77-b49f-edea99d5f190')\"\n",
               "            title=\"Convert this dataframe to an interactive table.\"\n",
               "            style=\"display:none;\">\n",
               "\n",
@@ -262,12 +262,12 @@
               "\n",
               "    <script>\n",
               "      const buttonEl =\n",
-              "        document.querySelector('#df-8fe2aa71-10e3-4cfa-937d-5dde2fb4b78d button.colab-df-convert');\n",
+              "        document.querySelector('#df-c0907784-e4ff-4a77-b49f-edea99d5f190 button.colab-df-convert');\n",
               "      buttonEl.style.display =\n",
               "        google.colab.kernel.accessAllowed ? 'block' : 'none';\n",
               "\n",
               "      async function convertToInteractive(key) {\n",
-              "        const element = document.querySelector('#df-8fe2aa71-10e3-4cfa-937d-5dde2fb4b78d');\n",
+              "        const element = document.querySelector('#df-c0907784-e4ff-4a77-b49f-edea99d5f190');\n",
               "        const dataTable =\n",
               "          await google.colab.kernel.invokeFunction('convertToInteractive',\n",
               "                                                    [key], {});\n",
@@ -297,7 +297,7 @@
             }
           },
           "metadata": {},
-          "execution_count": 6
+          "execution_count": 7
         }
       ]
     },
@@ -397,7 +397,7 @@
           "height": 80
         },
         "id": "snSWXGDf5W6o",
-        "outputId": "e8f167cd-119b-4fe7-8297-a47f5fb42b8e"
+        "outputId": "ab2045b9-ba94-478e-aebe-29d2dc879772"
       },
       "execution_count": null,
       "outputs": [
@@ -846,7 +846,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "XkVvgyEf6muj",
-        "outputId": "abde443a-c3f4-4601-cc1b-5e53d8449de0"
+        "outputId": "2ca6afae-6d3b-442e-c31c-30887c27ea88"
       },
       "execution_count": null,
       "outputs": [
@@ -877,7 +877,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "vu9pK2P17ATL",
-        "outputId": "1a8ca040-3f95-4fb9-932d-ac0600f9bb51"
+        "outputId": "2ee272e2-5acc-4b86-c2a3-91223019bb01"
       },
       "execution_count": null,
       "outputs": [
@@ -885,7 +885,7 @@
           "output_type": "stream",
           "name": "stdout",
           "text": [
-            "Random Forest Accuracy: 0.7467532467532467\n"
+            "Random Forest Accuracy: 0.7402597402597403\n"
           ]
         }
       ]
@@ -908,7 +908,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "sVMwrerq7fw9",
-        "outputId": "be4dd324-1952-4d9d-e4c8-924c25f2f91d"
+        "outputId": "8b4f37b6-1821-472b-9b80-123ae107f545"
       },
       "execution_count": null,
       "outputs": [
@@ -939,7 +939,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "PkN2sesy7vfG",
-        "outputId": "78c88c2e-02f4-4924-84bc-8a470777000d"
+        "outputId": "7c3cb97a-9bb7-43bb-ba8d-056e8de0c749"
       },
       "execution_count": null,
       "outputs": [
@@ -959,7 +959,7 @@
       ],
       "metadata": {
         "id": "PmRRwRDd7_mQ",
-        "outputId": "94c0d115-30e2-40bc-8c93-99d9993cd88f",
+        "outputId": "2ec993e7-bf75-4a31-95c2-4bda07b4e902",
         "colab": {
           "base_uri": "https://localhost:8080/"
         }
@@ -972,13 +972,44 @@
           "text": [
             "              precision    recall  f1-score   support\n",
             "\n",
-            "           0       0.81      0.80      0.80        99\n",
-            "           1       0.64      0.65      0.65        55\n",
+            "           0       0.79      0.81      0.80        99\n",
+            "           1       0.64      0.62      0.63        55\n",
             "\n",
-            "    accuracy                           0.75       154\n",
-            "   macro avg       0.72      0.73      0.73       154\n",
-            "weighted avg       0.75      0.75      0.75       154\n",
+            "    accuracy                           0.74       154\n",
+            "   macro avg       0.72      0.71      0.71       154\n",
+            "weighted avg       0.74      0.74      0.74       154\n",
             "\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import joblib\n",
+        "\n",
+        "# Save model\n",
+        "joblib.dump(best_model, \"diabetes_model.pkl\")\n",
+        "\n",
+        "# Save scaler\n",
+        "joblib.dump(scalar, \"scaler.pkl\")\n",
+        "\n",
+        "print(\"Saved Successfully\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "h9zB6uZKe5yk",
+        "outputId": "5e5c963f-f466-41a0-a202-6e2875496595"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Saved Successfully\n"
           ]
         }
       ]
